@@ -19,7 +19,7 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
  
-if ingredients = ingredients 
+if order == ingredients 
   puts "true"
 end
 
