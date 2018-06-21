@@ -19,7 +19,11 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ] 
- if order == ingredients 
+
+end
+
+def sandwich_request(ingredients, order)
+if order == ingredients 
   puts "true"
  end
 end
