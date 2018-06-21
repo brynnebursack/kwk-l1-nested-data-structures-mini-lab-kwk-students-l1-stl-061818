@@ -1,7 +1,8 @@
 require_relative './spec_helper.rb'
 require_relative '../index.rb'
 
-ingr_def = [
+def sandwich_request 
+  ingredients = [
   ["rye", "sourdough", "baguette"],
   ["ham", "salami", "turkey"],
   ["swiss", "munster", "cheddar"],
