@@ -22,16 +22,13 @@ ingredients = [
 
 end
 
-def sandwich_request(ingredients, order)
+def bread_request(ingredients, order)
 if order == ingredients
   puts "true"
  end
 end
 
-sandwich_request(["rye", "sourdough", "baguette"],
-    ["ham", "salami", "turkey"],
-    ["swiss", "munster", "cheddar"],
-    ["mayo", "mustard", "tabasco"], "ketchup")
+bread_request(["rye", "sourdough", "baguette"], "ketchup")
 
 
 
