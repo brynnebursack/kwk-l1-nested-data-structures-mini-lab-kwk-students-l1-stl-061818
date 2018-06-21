@@ -18,7 +18,7 @@ ingredients = [
     ["ham", "salami", "turkey"],
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
- 
+] 
 if order == ingredients 
   puts "true"
 end
