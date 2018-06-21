@@ -6,6 +6,8 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 puts ingredients[3]
+puts ingredients[2][2]
+puts ingredients[]
 end 
 sandwich_request
 
