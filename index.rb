@@ -1,15 +1,15 @@
-def sandwich_request
-ingredients = [
-    ["rye", "sourdough", "baguette"],
-    ["ham", "salami", "turkey"],
-    ["swiss", "munster", "cheddar"],
-    ["mayo", "mustard", "tabasco"]
-]
-puts ingredients[3]
-puts ingredients[2][2]
-puts ingredients[0][1]
-end 
-sandwich_request
+# def sandwich_request
+# ingredients = [
+#     ["rye", "sourdough", "baguette"],
+#     ["ham", "salami", "turkey"],
+#     ["swiss", "munster", "cheddar"],
+#     ["mayo", "mustard", "tabasco"]
+# ]
+# puts ingredients[3]
+# puts ingredients[2][2]
+# puts ingredients[0][1]
+# end 
+# sandwich_request
 
 
 def sandwich_request(ingredients, order) 
@@ -19,10 +19,18 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
  
- 
+if ingredients = ingredients 
+  puts "true"
 end
 
 sandwich_request
+
+
+
+
+
+
+
 
 
 
