@@ -28,7 +28,7 @@ if order == ingredients
  end
 end
 
-sandwich_request("rye", "sourdough", "baguette"],
+sandwich_request(["rye", "sourdough", "baguette"],
     ["ham", "salami", "turkey"],
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"], "ketchup")
