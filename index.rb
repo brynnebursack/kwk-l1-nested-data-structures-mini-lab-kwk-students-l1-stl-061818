@@ -1,4 +1,4 @@
-# example ingredients array
+def sandwich_request
 ingredients = [
     ["rye", "sourdough", "baguette"],
     ["ham", "salami", "turkey"],
