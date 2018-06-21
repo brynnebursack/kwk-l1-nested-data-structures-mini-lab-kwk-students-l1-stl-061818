@@ -5,7 +5,7 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ]
-puts ingredients
+
 end 
 sandwich_request
 
