@@ -7,7 +7,7 @@ ingredients = [
 ]
 puts ingredients[3]
 puts ingredients[2][2]
-puts ingredients[]
+puts ingredients[0][1]
 end 
 sandwich_request
 
