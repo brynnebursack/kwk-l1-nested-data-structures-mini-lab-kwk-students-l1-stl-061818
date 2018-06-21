@@ -28,7 +28,7 @@ if order == ingredients
  end
 end
 
-bread_request(["rye", "sourdough", "baguette"], "ketchup")
+puts bread_request(["rye", "sourdough", "baguette"], "ketchup")
 
 
 
