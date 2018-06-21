@@ -13,8 +13,11 @@ sandwich_request
 
 
 def sandwich_request(ingredients, "tofu") 
-  
-  
+  if ingredients == ingredients 
+    puts "true"
+  if ingredients !== ingredients 
+    puts "false"
+ end  
 end
 
 sandwich_request
