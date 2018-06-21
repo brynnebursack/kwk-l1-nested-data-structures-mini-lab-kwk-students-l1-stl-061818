@@ -5,13 +5,13 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ]
-
+puts ingredients
 end 
 sandwich_request
 
 
 def sandwich_request(ingredients, order) 
-  # your code here!
+  
 end
 
 
