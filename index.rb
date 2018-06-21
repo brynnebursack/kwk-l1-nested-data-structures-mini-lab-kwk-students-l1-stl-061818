@@ -23,7 +23,7 @@ ingredients = [
 end
 
 def sandwich_request(ingredients, order)
-if order == ingredients 
+if order == ingredients
   puts "true"
  end
 end
