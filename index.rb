@@ -23,8 +23,8 @@ ingredients = [
 end
 
 def bread_request(ingredients, order)
-if order == ingredients
-  puts "true"
+ if order == ingredients
+ puts "true"
  end
 end
 
