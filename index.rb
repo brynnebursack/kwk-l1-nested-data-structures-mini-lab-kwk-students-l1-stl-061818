@@ -12,7 +12,7 @@ end
 sandwich_request
 
 
-def sandwich_request(ingredients, order) 
+def sandwich_request(ingredients, "tofu") 
   
 end
 
