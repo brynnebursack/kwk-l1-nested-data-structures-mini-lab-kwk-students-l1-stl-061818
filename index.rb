@@ -19,9 +19,9 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ] 
-if order == ingredients 
+ if order == ingredients 
   puts "true"
-end
+ end
 end
 
 sandwich_request
